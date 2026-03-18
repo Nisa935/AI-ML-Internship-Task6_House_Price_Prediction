@@ -1,10 +1,11 @@
 # House Price Prediction using Machine Learning
 
 1. Project Overview
+
 This project focuses on predicting house prices based on property features such as area, number of bedrooms, bathrooms, floors, year built, location, condition, and garage availability.
 A regression-based machine learning model is trained to estimate house prices using housing data.
 
-2. Objectives
+3. Objectives
 * Perform data preprocessing and feature engineering
 * Train a regression model for price prediction
 * Evaluate model performance using standard metrics
